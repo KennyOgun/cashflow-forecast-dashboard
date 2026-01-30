@@ -17,11 +17,37 @@
 | Feature | Description |
 |--------|-------------|
 | **Executive summary** | Problem scenario, what the organisation needed, solution delivered |
+
+<img width="1487" height="168" alt="image" src="https://github.com/user-attachments/assets/210a02be-6801-4147-87f1-f1e012a9e97b" />
+
+
 | **12-month forecast** | Income, expenses, operating cash flow, capex, financing and closing cash by month |
+
+<img width="1501" height="713" alt="image" src="https://github.com/user-attachments/assets/e7e62810-a0aa-44f9-bb05-1f262bc5bd96" />
+
+<img width="1572" height="650" alt="image" src="https://github.com/user-attachments/assets/5e91b765-dcfd-431b-ba45-f3c9c6a8c96a" />
+
+
 | **Working capital** | Receivables, payables, cash and current ratio from balance sheet |
+
+<img width="1535" height="660" alt="image" src="https://github.com/user-attachments/assets/0616b74e-53fc-4071-bcb8-17e8f644d554" />
+
+
 | **Scenario modelling** | Best (+4% income, cost discipline, PDC injection), Base (+2% / +3%), Worst (−1% / +5%), Do nothing (flat income, +5% costs) |
+
+<img width="800" height="408" alt="image" src="https://github.com/user-attachments/assets/6df2c121-7018-46b6-8a25-f1089333b56e" />
+
+
 | **Assumptions** | Revenue, expenses, capital and finance assumptions with rationale |
+
+<img width="1032" height="240" alt="image" src="https://github.com/user-attachments/assets/3866cd11-25e7-460d-96c5-29367c734bc7" />
+
+
 | **Recommendations** | Liquidity, working capital, cost control, capital and reporting |
+
+![Uploading image.png…]()
+
+
 
 ---
 
