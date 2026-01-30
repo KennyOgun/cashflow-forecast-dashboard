@@ -53,9 +53,6 @@
 
 
 
-![Uploading image.png…]()
-
-
 
 ---
 
