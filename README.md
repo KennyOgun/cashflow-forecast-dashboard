@@ -33,20 +33,25 @@
 
 ## 3.0 | **Working capital** | Receivables, payables, cash and current ratio from balance sheet |
 
-<img width="1535" height="660" alt="image" src="https://github.com/user-attachments/assets/0616b74e-53fc-4071-bcb8-17e8f644d554" />
+<img width="1523" height="402" alt="image" src="https://github.com/user-attachments/assets/07266cf0-89a5-4b0d-a4d7-f0af7e1387a4" />
 
 
 ## 4.0 | **Scenario modelling** | Best (+4% income, cost discipline, PDC injection), Base (+2% / +3%), Worst (−1% / +5%), Do nothing (flat income, +5% costs) |
 
-<img width="800" height="408" alt="image" src="https://github.com/user-attachments/assets/6df2c121-7018-46b6-8a25-f1089333b56e" />
+<img width="1535" height="660" alt="image" src="https://github.com/user-attachments/assets/0616b74e-53fc-4071-bcb8-17e8f644d554" />
 
 
 ## 5.0 | **Assumptions** | Revenue, expenses, capital and finance assumptions with rationale |
 
-<img width="1032" height="240" alt="image" src="https://github.com/user-attachments/assets/3866cd11-25e7-460d-96c5-29367c734bc7" />
+<img width="800" height="408" alt="image" src="https://github.com/user-attachments/assets/6df2c121-7018-46b6-8a25-f1089333b56e" />
 
 
 ## 6.0 | **Recommendations** | Liquidity, working capital, cost control, capital and reporting |
+
+<img width="1032" height="240" alt="image" src="https://github.com/user-attachments/assets/3866cd11-25e7-460d-96c5-29367c734bc7" />
+
+
+
 
 ![Uploading image.png…]()
 
